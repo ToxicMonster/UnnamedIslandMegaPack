@@ -53,10 +53,10 @@ The following base-game assets have been changed.
 - Veh_Fire-03_exterior-dif: Tanker
 - CTA_exterior_AlbedoTransparency_FD
 
-##Usage
+## Usage
 This pack is permitted to be used in any communities. Do not reupload/redistribute any files as provided or modified. Modification is only permitted for fixing textures and submitting them to the issues tab: https://github.com/ToxicMonster/UnnamedIslandMegaPack/issues. You may contact me to request permission for any uses other than this. If you have any questions also feel free to contact me.
 
-##Credits
+## Credits
 This pack was created by me with the following exceptions:
 - matthewtrakker:
   - Ambulance_complete_Body_LP_AO: Tanker Ambulance Occlusion Map
