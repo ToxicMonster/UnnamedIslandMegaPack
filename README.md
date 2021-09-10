@@ -1,5 +1,4 @@
 ![Unnamed Island Mega Pack](https://user-images.githubusercontent.com/89327909/132807200-d3c9f3fa-c5bd-47ec-a49a-3ed2d4000740.png)
-# UnnamedIslandMegaPack
 A Mega Pack for Flashing Lights. This pack contains changes for many things in this pack with an easy installer. All changes are Unnamed Island Themed.
 
 ## Changes
